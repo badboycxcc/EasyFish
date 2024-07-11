@@ -3,8 +3,6 @@
 > 【最新消息】由于参与商业计划，产品和所有更新暂时下线，可以右上角点个关注，重新上线了会自动通知。
 
 
-下载地址：https://github.com/badboycxcc/EasyFish/releases/tag/2.3
-
 > 使用说明参考：https://www.yuque.com/mingtian-gbdvz/easyfish
 
 > 使用案例参考 杰龙师傅 的真实演练：https://mp.weixin.qq.com/s/B4jmpmwP-HSl1EsROhQhDA
